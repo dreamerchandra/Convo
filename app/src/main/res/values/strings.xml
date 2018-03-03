@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Convo</string>
+    <string name="enter_hint">Enter the number</string>
+    <string name="result">Result</string>
+    <string name="check_the_developer">Check the developer</string>
+    <string name ="info"><a href="mailto:chandru.ck58@gmail.com?Subject=Need%20Assistance" target="_top">Check out with us</a></string>
+    <string name="enter_inches">Enter inches</string>
+    <string-array name="unit_array">
+        <item>Cm</item>
+        <item>In</item>
+        <item>Ft</item>
+        <item>M</item>
+        <item>Ft-In</item>
+    </string-array>
+</resources>
